@@ -33,6 +33,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
 
     // MPAndroidChart
+    // https://weeklycoding.com/mpandroidchart-documentation/
     implementation 'com.github.PhilJay:MPAndroidChart:v3.1.0'
 
 }
